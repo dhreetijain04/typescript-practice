@@ -1,0 +1,24 @@
+{
+  "name": "typescript-practice",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/dhreetijain04/typescript-practice#readme",
+  "bugs": {
+    "url": "https://github.com/dhreetijain04/typescript-practice/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhreetijain04/typescript-practice.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node dist/index.js",
+    "dev" : "npx tsc"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
